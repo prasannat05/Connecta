@@ -98,15 +98,4 @@ Connecta/
 - **Accessibility**: Clear typography and intuitive navigation
 - **Performance**: Lightweight and fast-loading application
 
-## License
 
-This project is open source and available on GitHub.
-
-## Support
-
-For issues, suggestions, or contributions, please visit the GitHub repository at https://github.com/prasantat05/Connecta
-
----
-
-**Created by**: prasantat05  
-**Repository**: https://github.com/prasantat05/Connecta
